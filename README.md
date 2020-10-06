@@ -51,7 +51,6 @@ And some academic platforms:
 
 ![](https://img.shields.io/badge/LinkedIn--informational?style=social&logo=linkedin&logoColor=blue&color=2bbc8a?link=https://www.linkedin.com/in/masumistadler/)
 ![](https://img.shields.io/badge/ResearchGate--informational?style=social&logo=researchgate&logoColor=2bbc8a?&color=2bbc8a?link=https://www.researchgate.net/profile/Masumi_Stadler)
-
 ![](https://img.shields.io/badge/Google_Scholar--informational?style=social&logo=google-scholar&logoColor=blue&color=2bbc8a?link=https://scholar.google.com/citations?user=WDlaK4IAAAAJ&hl=en)
 ![](https://img.shields.io/badge/ORCID--informational?style=social&logo=ORCID&logoColor=success&color=2bbc8a?link=https://orcid.org/0000-0001-5048-8436)
 ![](https://img.shields.io/badge/Publons--informational?style=social&logo=publons&logoColor=steelblue&color=2bbc8a?link=https://publons.com/researcher/3540205/masumi-stadler/)
