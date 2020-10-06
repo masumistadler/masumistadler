@@ -54,3 +54,11 @@ And some academic platforms:
 [![GoogleScholar](https://img.shields.io/badge/Google_Scholar--informational?style=social&logo=google-scholar&logoColor=blue&color=2bbc8a)](https://scholar.google.com/citations?user=WDlaK4IAAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID--informational?style=social&logo=ORCID&logoColor=success&color=2bbc8a)](https://orcid.org/0000-0001-5048-8436)
 [![Publons](https://img.shields.io/badge/Publons--informational?style=social&logo=publons&logoColor=steelblue&color=2bbc8a)](https://publons.com/researcher/3540205/masumi-stadler/)
+
+---
+
+## Contact
+
+I'm happy to receive any message via mail ![m.stadler.jp.at@gmail.com](m.stadler.jp.at@gmail.com).
+You can contact me in Enlgish, German or Japanese (hopefully French soon). But regarding anything sciency, I feel more at ease in English.
+
