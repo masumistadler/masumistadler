@@ -41,24 +41,22 @@ Feel free to contact me if you need assistance to automatise raw data extraction
 ![](https://img.shields.io/badge/Geospatial-ArcGIS-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Geospatial-QGIS-informational?style=flat&logo=qgis&logoColor=white&color=2bbc8a)
 
-----
+---
+
+## Contact
 
 I'm not very fond of social media (🚨 low post frequency), but you can find me on:
 
 [![Twitter](https://img.shields.io/badge/Twitter-@masumistadler-informational?style=social&logo=twitter&logoColor=blue&color=2bbc8a)](https://twitter.com/masumistadler)
 
-And some academic platforms:
+I'm happy to receive any message via mail ![m.stadler.jp.at@gmail.com](m.stadler.jp.at@gmail.com).
+You can contact me in English, German or Japanese (hopefully French soon). But regarding anything sciency, I feel more at ease in English.
+
+You can also find me on any of these professional/academic platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--informational?style=social&logo=linkedin&logoColor=blue&color=2bbc8a)](https://www.linkedin.com/in/masumistadler/)
 [![ResarchGate](https://img.shields.io/badge/ResearchGate--informational?style=social&logo=researchgate&logoColor=2bbc8a?&color=2bbc8a)](https://www.researchgate.net/profile/Masumi_Stadler)
 [![GoogleScholar](https://img.shields.io/badge/Google_Scholar--informational?style=social&logo=google-scholar&logoColor=blue&color=2bbc8a)](https://scholar.google.com/citations?user=WDlaK4IAAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID--informational?style=social&logo=ORCID&logoColor=success&color=2bbc8a)](https://orcid.org/0000-0001-5048-8436)
 [![Publons](https://img.shields.io/badge/Publons--informational?style=social&logo=publons&logoColor=steelblue&color=2bbc8a)](https://publons.com/researcher/3540205/masumi-stadler/)
-
----
-
-## Contact
-
-I'm happy to receive any message via mail ![m.stadler.jp.at@gmail.com](m.stadler.jp.at@gmail.com).
-You can contact me in English, German or Japanese (hopefully French soon). But regarding anything sciency, I feel more at ease in English.
 
