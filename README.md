@@ -45,7 +45,7 @@ Feel free to contact me if you need assistance to automatise raw data extraction
 
 I'm not very fond of social media (🚨 low post frequency), but you can find me on:
 
-![](https://img.shields.io/badge/Twitter-@masumistadler-informational?style=social&logo=twitter&logoColor=blue&color=2bbc8a&?link=https://twitter.com/masumistadler)
+![](https://img.shields.io/badge/Twitter?link=https://twitter.com/masumistadler-@masumistadler-informational?style=social&logo=twitter&logoColor=blue&color=2bbc8a)
 
 And some academic platforms:
 
