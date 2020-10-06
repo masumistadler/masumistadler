@@ -60,5 +60,5 @@ And some academic platforms:
 ## Contact
 
 I'm happy to receive any message via mail ![m.stadler.jp.at@gmail.com](m.stadler.jp.at@gmail.com).
-You can contact me in Enlgish, German or Japanese (hopefully French soon). But regarding anything sciency, I feel more at ease in English.
+You can contact me in English, German or Japanese (hopefully French soon). But regarding anything sciency, I feel more at ease in English.
 
