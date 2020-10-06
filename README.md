@@ -20,7 +20,7 @@ I'm from Japan/Austria, currently living in Montréal, Canada working on my PhD 
 I am an advocate for transparent and open science, so all publications where I am a first author will have code and data available.
 
 * Code on Github
-* Data on Zotero or NCBI Sequencce Read Archive (SRA) for microbial data
+* Data on Zotero or NCBI Sequence Read Archive (SRA) for microbial data
 
 Please find a repository for each paper, the README will include a short description for each publication including where to find the data.
 
@@ -34,14 +34,10 @@ Feel free to contact me if you need assistance to automatise raw data extraction
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Markup-Markdown-informational?style=flat&logo=Rstudio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Markup-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Version_Control-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Geospatial-ArcGIS-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Geospatial-QGIS-informational?style=flat&logo=qgis&logoColor=white&color=2bbc8a)
 
