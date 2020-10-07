@@ -5,7 +5,7 @@ I'm from Japan/Austria, currently living in Montréal, Canada working on my PhD 
 
 ---
 
-## 🔬 Research interests
+### 🔬 Research interests
 
 * :earth_americas: Carbon dynamics in freshwater systems
   * Greenhouse gases
@@ -15,7 +15,7 @@ I'm from Japan/Austria, currently living in Montréal, Canada working on my PhD 
 
 ---
 
-## What to expect here on my Github:
+### What to expect here on my Github:
 
 I am an advocate for transparent and open science, so all publications where I am a first author will have code and data available.
 
@@ -29,7 +29,7 @@ Feel free to contact me if you need assistance to automatise raw data extraction
 
 ---
 
-## 🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
@@ -44,7 +44,7 @@ Feel free to contact me if you need assistance to automatise raw data extraction
 
 ---
 
-## Contact
+### Contact
 
 I'm not very fond of social media (🚨 low post frequency), but you can find me on:
 
