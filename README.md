@@ -1,6 +1,6 @@
 ### Hello there. :smiley_cat:
 
-My name is Masumi Stadler (she/her).
+My name is Masumi Stadler.
 I'm from Japan/Austria, currently living in Montréal, Canada working on my PhD thesis at the Université du Québec à Montréal. I'm a happy alumni of the University of Vienna (BSc, MSc).
 
 ---
@@ -40,6 +40,7 @@ Feel free to contact me if you need assistance to automatise raw data extraction
 ![](https://img.shields.io/badge/Version_Control-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Geospatial-ArcGIS-informational?style=flat&color=2bbc8a)
 ![](https://img.shields.io/badge/Geospatial-QGIS-informational?style=flat&logo=qgis&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Imaging-ImageJ-informational?style=flat&color=2bbc8a)
 
 ---
 
