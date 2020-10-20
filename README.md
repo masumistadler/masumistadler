@@ -1,7 +1,7 @@
 ### Hello there. :smiley_cat:
 
 My name is Masumi Stadler.
-I'm from Japan/Austria, currently living in Montréal, Canada working on my PhD thesis at the Université du Québec à Montréal. I'm a happy alumni of the University of Vienna (BSc, MSc).
+I'm from Japan/Austria, currently living in Montréal, Canada, working on my PhD thesis at the Université du Québec à Montréal. I'm a happy alumni of the University of Vienna, Austria (BSc, MSc).
 
 ---
 
