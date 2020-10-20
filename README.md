@@ -49,6 +49,7 @@ Feel free to contact me if you need assistance to automatise raw data extraction
 I'm not very fond of social media (🚨 low post frequency), but you can find me on:
 
 [![Twitter](https://img.shields.io/badge/Twitter-@masumistadler-informational?style=social&logo=twitter&logoColor=blue&color=2bbc8a)](https://twitter.com/masumistadler)
+[![Instagram](https://img.shields.io/badge/Instagram-@masumistadler-informational?style=social&logo=instagram&logoColor=white&color=2bbc8a)](https://www.instagram.com/masumistadler/)
 
 I'm happy to receive any message via mail ![m.stadler.jp.at@gmail.com](m.stadler.jp.at@gmail.com).
 You can contact me in :uk:, :austria: or :jp: (hopefully :fr: soon). But regarding anything sciency, I feel more at ease in English.
