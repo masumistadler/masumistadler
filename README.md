@@ -7,11 +7,11 @@ I'm from Japan/Austria, currently living in Montréal, Canada, working on my PhD
 
 ### 🔬 Research interests
 
-* :earth_americas: Carbon dynamics in freshwater systems
-  * Greenhouse gases
-  * Bacterial metabolism
+* :droplet: Water quality monitoring - especially in relation to antimicrobial resistance (AMR)
 * :microbe: Microbial ecology
 * :national_park: Cross-ecosystem connectivity (aquatic network, terrestrial-aquatic)
+* :earth_americas: Carbon dynamics in freshwater systems
+* :globe_with_meridians: Planetary Health / One Health approaches
 
 ---
 
