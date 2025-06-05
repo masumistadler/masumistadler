@@ -51,12 +51,12 @@ I'm not very fond of social media (🚨 low post frequency), but you can find me
 [![Twitter](https://img.shields.io/badge/Twitter-@masumistadler-informational?style=social&logo=twitter&logoColor=blue&color=2bbc8a)](https://twitter.com/masumistadler)
 [![Instagram](https://img.shields.io/badge/Instagram-@masumistadler-informational?style=social&logo=instagram&logoColor=red&color=2bbc8a)](https://www.instagram.com/masumistadler/)
 
-I'm happy to receive any message via mail ![m.suga.stadler@gmail.com](m.suga.stadler@gmail.com).
+I'm happy to receive any message via mail [m.suga.stadler@gmail.com](m.suga.stadler@gmail.com).
 You can contact me in :uk:, :austria: or :jp:. But regarding anything sciency, I feel more at ease in English.
 
 You can also find me on any of these professional/academic platforms:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--informational?style=social&logo=linkedin&logoColor=blue&color=2bbc8a)](https://www.linkedin.com/in/masumistadler/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--informational?style=social&logo=linkedin&logoColor=blue&color=2bbc8a)](https://www.linkedin.com/in/msugastadler/)
 [![ResarchGate](https://img.shields.io/badge/ResearchGate--informational?style=social&logo=researchgate&logoColor=2bbc8a?&color=2bbc8a)](https://www.researchgate.net/profile/Masumi_Stadler)
 [![GoogleScholar](https://img.shields.io/badge/Google_Scholar--informational?style=social&logo=google-scholar&logoColor=blue&color=2bbc8a)](https://scholar.google.com/citations?user=WDlaK4IAAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID--informational?style=social&logo=ORCID&logoColor=success&color=2bbc8a)](https://orcid.org/0000-0001-5048-8436)
